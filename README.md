@@ -18,5 +18,5 @@ You will also see any lint errors in the console.
   *  JSX
   *  CSS
   
-  ![you can check the final look of the page here : ](https://github.com/AsmaaShAli/MovieSearchApp/image.jpg)
+  ![you can check the final look of the page here : ](image.jpg)
 
